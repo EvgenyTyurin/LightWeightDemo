@@ -16,7 +16,7 @@ public class LightWeightDemo extends Application {
 
     private static final double WINDOW_WIDTH = 1000;
     private static final double WINDOW_HEIGHT = 1000;
-    private static final String TREE_GREEN_PNG = "tree_green.png";
+    private static final String TREE_GREEN_PNG = "src/png/tree_green.png";
     public static final int TREES_NUMBER = 100000;
 
     @Override
